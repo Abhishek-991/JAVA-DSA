@@ -23,7 +23,7 @@ class Calculator{
         System.out.println("Enter Operation");
         System.out.println("1:+(Addition)a+b\n2:-(Subtraction)a-b\n3:*(Multiplication)a*b\n4:/(Division)a/b\n5:%(Modulo or remainder)a%b");
         int op=sc.nextInt();
-        System.out.println();8
+        System.out.println();
         switch(op){
             case 1 :System.out.println(a+b);
             break;
